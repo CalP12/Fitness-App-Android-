@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="bentrow">Stand tall with your chest up and core braced, holding a dumbbell in each hand. Bend forwards – hingeing at the hips, not the waist.
+        Then row the weights up to your sides, leading with your elbows.
+        Lower back to the start.</string>
+    <string name="bentpress">Stand tall, holding dumbbells by your sides, palms facing forwards. Keeping your elbows tucked in, curl the weights up, squeezing your biceps at the top. Lower them back to the start.</string>
+
+    <string-array name="loseWeight">
+        <item>Bent-over Row</item>
+        <item>Romanian Deadlift</item>
+        <item>Diamond Push-Ups</item>
+        <item>Wide-arm Push-Ups</item>
+        <item>Squat</item>
+        <item>Split Squat</item>
+        <item>Lateral Raise</item>
+        <item>Lunge press</item>
+        <item>Dive-bomber Push-Ups</item>
+        <item>Renegade Row</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
